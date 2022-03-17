@@ -1,5 +1,5 @@
 --- 
-title: "Appunti di Epidemiologia per EBN "
+title: "Appunti"
 author: "Angelo Solimini"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
