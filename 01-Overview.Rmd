@@ -1,0 +1,26 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Overview {#overview}
+
+## Che cosa e' questo tutorial?
+
+Questo libro illustra alcuni principi di base dell'epidemiologia utili per lo studente di scienze infermieristiche che affronta lo studio della pratica clinica basata sulle prove di efficacia. Nasce dall'esigenza di fornire un tool pratico agli studenti del mio corso di Epidemiologia per la laurea di primo livello in scienze infermieristiche e rappresenta una trasposizione piu' o meno fedele delle slide delle mie lezioni. Gli esempi e gli esercizi sono tratti (o ispirati) da problemi assistenziali reali. Questo libro non vuole essere una trattazione esaustiva, per la quale si rimanda a testi piu' completi come per esempio il testo di Chiari e colleghi "L'infermieristica basata su prove di efficacia, guida operativa per l'evidence based nursing" [link](https://www.mheducation.it/evidence-based-clinical-practice-2-ed-9788838636738-italy).
+
+Per una piena comprensione della materia lo studente dovrebbe effettuare anche gli esercizi proposti sul sito web del corso.
+
+## OpenEpi
+
+Per la risoluzione di alcuni degli esercizi e' consigliato l'utilizzo del software [OpenEpi](http://www.openepi.com/Menu/OE_Menu.htm). OpenEpi è un software per statistiche epidemiologiche open source. Può essere avviato dal web o scaricato e usato sul proprio device senza la connessione di rete. Non è necessario un server. Il programma è scritto in JavaScript e HTML e compatibile con tutti i sistemi operativi. Il programma può essere avviato dal browser dei cellulari iPhone e Android.
+
+## Sito web del corso
+
+Il sito web del corso e' sulla piattaforma E-learning dell'Universita' La Sapienza, il cui accesso e' riservato agli studenti in corso. [EBN-S.Spirito](https://elearning.uniroma1.it/course/view.php?id=3720)
+
+
+
+
+
+

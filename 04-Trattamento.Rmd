@@ -1,0 +1,576 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Studi di trattamento
+
+L'obiettivo degli studi di trattamento e' verificare l'efficacia di un intervento rispetto allo standard di riferimento. In questi studi si interviene assegnando gli individui che partecipano allo studio a due o più gruppi che si differenziano per il ricevere o meno il trattamento “sperimentale”. L'intervento puo’ essere preventivo o terapeutico. Sono detti anche studi di intervento o studi sperimentali o trial. 
+L'attiva manipolazione dell’assegnazione (o meno) del trattamento «sperimentale», ovvero dello status di esposizione, con _lo scopo esplicito di verificarne la sua efficacia_ è la caratteristica che distingue gli studi sperimentali (in inglese «trial») dagli studi osservazionali. Spesso (ma non sempre) lo scopo esplicito dello studio e’ verificare se il trattamento sperimentale e’ piu’ efficace del trattamento standard.
+
+E' opportuno far notare che anche in molti studi clinici osservazionali vengono confrontati, di solito retrospettivamente, gruppi di pazienti che ricevono uno o piu' trattamenti diversi. Tuttavia, negli studi osservazionali lo sperimentare non interviene nel processo di assegnazione dei pz ai diversi trattamenti che viene invece deciso  secondo la routine clinica.
+Molte persone sono implicate in uno studio sperimentale, ognuno con la sua professionalita' ed i suoi compiti specifici.
+
+## Tipologie
+
+Vi sono diversi modi di classificare gli studi sperimentali. 
+
+Nei **trial individuali** le unita' campionarie che vengono assegnate ai gruppi a confronto (sperimentale vs controllo) sono i singoli pazienti mentre nei **trial di comunità** le unita' campionare sono gruppi di individui (comunità), come per es. reparti ospedalieri. I **trial preventivi** studiano gli interventi che evitano l’insorgenza della patologia, sono condotti su individui sani, spesso in gruppi a alto rischio, e possono riguardare l'esposizione ad un potenziale fattore benefico (es. vitamine, farmaci anticolesterolo) oppure interventi educativi che portano a migliori stili di vita (cambiamento dieta, esercizio fisico, uso del profilattico). La maggior parte degli studi sperimentali riguardano la valutazione di interventi clinici terapeutici (**trial terapeutici**) in ambiente clinico (**trial clinici**). Un ipotetico studio sperimentale che voglia verificare l'efficacia di un intervento educativo nelle scuole per la prevenzione delle malattie sessualmente trasmesse quindi e' un trial preventivo di comunita'. 
+
+Nei **trial controllati** e’ presente un gruppo che riceve il trattamento di controllo che e' invece assente nei **trial non controllati**. Questi ultimi possono per esempio riguardare la sperimentazione di farmaci in fase 1 (tollerabilita’ su volontari) e fase 2 (determinazione della dose-risposta su volontari malati). I **trial clinici randomizzati (RCT)** sono i trial piu’ frequentemente utilizzati per la determinazione dell’efficacia di un trattamento. Questi sono spesso condotti in ambito clinico, sono randomizzati e con presenza di un gruppo di controllo. L'acronimo inglese RCT sta per randomized controlled trial. Nei **trial non randomizzati** l’assegnazione ai due gruppi in studio non e’ casuale e puo' essere effettuata per es. secondo l’ordine di arrivo in reparto.  
+
+Nei **trial di superiorita’** si verifica se il trattamento sperimentale e’ superiore (piu’ afficace) al trattamento di confronto mentre nei **trial di equivalenza** e in quelli di **non inferiorita'** si verifica che il trattamento sperimentale abbia gli stessi effetti (ne’ migliore ne’ peggiore) o che la sua efficacia non sia inferiore al trattamento di confronto ma abbia dei vantaggi per il pz. In pratica si verifica che il trattamento sperimentale non dia effetti inferiori a quello di controllo (al netto di un certo margine predefinito di riduzione di efficacia), ma con vantaggi che possono essere in termini di sicurezza, facilita' di somministrazione, tollerabilita’, costo. L'esempio della figura e' un trial clinico di superiorita' controllato e randomizzato.
+
+## Descrizione
+La seguente descrizione si riferisce ad un trial clinico randomizzato di superiorita'.
+{figura}
+
+Lo scopo di questo ipotetico studio e' verificare la maggiore efficacia (la «superiorita'») di un trattamento sperimentale rispetto allo standard of care (trattamento di controllo) per la terapia di una determinata patologia. A partire dalla lista dei pazienti che sono stati selezionati in base ai criteri di inclusione, lo sperimentatore assegna casualmente gli individui al gruppo sperimentale o al gruppo di controllo. Durante il followup i pazienti vengono monitorati clinicamente seguento un protocollo predefinito registrando tutti gli esiti (per es. la guarigione), compresi gli eventi avversi. Alla fine del followup si confrontano le proporzioni di  guariti tra i due gruppi. Il trattamento piu' efficace sara' quello con la maggiore proporzione di guariti.
+
+Vengono di seguito accennate alcune caratteristiche generali dei trial clinici.
+
+**Fasi di un trial**. Un trial solitamente prevede le seguenti fasi: formulazione dell'ipotesi di ricerca e stesura del protocollo particolareggiato dello studio, ottenimento dei fondi e approvazione da parte del comitato etico (analisi rischi e benefici del trattamento sperimentale proposto), arruolamento nello studio in base a criteri prestabiliti (criteri di eleggibilita’) e previo consenso informato, allocazione dei partecipanti a uno o più gruppi che ricevono i diversi interventi oggetto del confronto (ed evntuale randomizzazione), monitoraggio degli esiti (incluso gli eventi avversi) durante il followup, confronto tra proporzione degli esiti nei diversi gruppi e pubblicazione dei risultati.
+
+**Criteri di inclusione (eleggibilità)**. Chi è eleggibile? Il tipo di popolazione selezionata dipende dagli scopi del trial e deve essere definita a priori. Piu’ i criteri sono specifici, migliore e’ la precisione del risultato ma minore e’ la sua generalizzabilita’ ad altri setting assistenziali. E’ inoltre molto importante che i pazienti nei due gruppi a confronto abbiano lo stesso livello di prognosi, oltre che ovviamente la stessa malattia. Se per esempio mettessimo tutti i pz gravi nel gruppo sperimentale osserveremo presumibilmente una minore efficacia indipendentemente dalla bonta' o meno del trattamento.
+
+**Dimensione del campione**. Il campione di individui dovrebbe essere abbastanza ampio da permettere di individuare una differenza di esiti con un potere statistico sufficiente e più sono gli esiti in studio, più individui sono necessari. La dimensione del campione deve essere calcolata in base all’effetto atteso in termini di differenza delle incidenze nei due gruppi ed alla precisione e accuratezza statistica che si vuole raggiungere e inserita nel protocollo sottomesso per l’approvazione del comitato etico.
+
+**Randomizzazione**. E' l'assegnazione casuale del paziente ad un trattamento. Avviene tramite l’estrazione di numeri casuali. Ne’ lo sperimentatore ne’ il paziente possono influenzare l’assegnazione al trattamento. Rimuove potenziali bias derivanti dall’assegnazione dei soggetti nei gruppi di trattamento e tende a produrre gruppi confrontabili e intercambiabili, bilanciando (in media) sia i determinanti conosciuti, sia quelli sconosciuti dell’esito. E' molto importante effettuare una corretta randomizzazione che e' una prerogativa degli studi sperimentali.
+
+**Effetto placebo**. L’effetto totale osservato in uno studio e’ la somma degli effetti del trattamento, del miglioramento spontaneo, della risposta specifica al farmaco e delle risposte aspecifiche soggettive dei pz. Il disegno sperimentale deve essere tale da evidenziare l’effetto del trattamento al netto di tutti gli altri effetti. L'effetto placebo sono la somma degli effetti soggettivi che non sono dovuti alla terapia ma a componenti psicologiche del pz come la fiducia nel medico, nella sperimentazione o nel tipo di terapia. Nei trial sull’efficacia dei farmaci si utilizzava un tempo il placebo: una sostanza farmacologicamente inerte ma identica al farmaco sperimentale. In molti trial moderni il gruppo di confronto riceve un farmaco di confronto (di solito lo standard of care).
+
+**Mascheramento**. Si attua somministrando il trattamento in «cieco» per evitare interferenza dovute alle aspettative ottimistiche del pz o dello staff implicato nel trial. Al contrario nei trial «aperti» (open label) non c'e' mascheramento sul trattamento somministrato. Il mascheramento puo' essere di tipo: 
+
+- _singolo cieco_: i partecipanti non sono a conoscenza a quale gruppo di trattamento sono stati assegnati
+
+- *Doppio cieco*: lo staff che somministra loro il trattamento non è a conoscenza a quale gruppo di trattamento sono stati assegnati
+
+- *Triplo cieco*: lo staff che monitora l‘esito non e’ a conoscenza a quale gruppo di trattamento i vari pazienti sono stati assegnati. Non e’ necessario quando l’outcome si basa su diagnostica strumentale, per gli outcome non oggettivi il problema e’ maggiore. A volte puo’ essere in cieco anche lo statistico che fa l’analisi.
+
+**Compliance (aderenza al protocollo)**. E’ l’aderenza dei partecipanti alle procedure descritte nel protocollo. 
+Deviazioni dal protocollo possono accadere per alcuni partecipanti a causa di effetti secondari del trattamento. Per questo motivo il pz puo' essere riassegnato per il proseguo dello studio al gruppo di controllo oppure il trattamento puo' venire interrotto). La non compliance rende i due gruppi a confronto più simili, riducendo la capacità dello studio di evidenziare differenze dell'esito del trattamento tra i due gruppi (diminuice la potenza dello studio).
+
+**Esiti primari ed esiti surrogati**. 
+Negli studi clinici di solito si utilizzano esiti primari ed esiti secondari (o surogati). Gli esiti primari sono esiti rilevanti clinicamente (morte, ricadute, guarigione...) mentre l'esito surrogato: esito che risulta correlato con l’esito primario ma e' piu’ semplice (o veloce) da ottenere. Per esempio negli studi sull'incidenza degli esiti cardiovascolari maggiori (infarto, ictus) viene utilizzato come esito surrogato l'ipertensione arteriosa oppure negli studi oncologici invece della morte puo' venire utilizzata la dimensione del tumore. In entrambi i casi l'esito surrogato si verifica prima durante il followup, accorciandone quindi i tempi. Tuttavia, non sempre all'esito surrogato segue temporalmente un esito primario. Per questo motivo sono piu' affidabili e significativi gli studi che verificano l'efficacia dei trattamenti su esiti primari.
+
+**Aspetti etici e ruolo del comitato etico **. Negli studi sperimentali gli aspetti etici devono sempre essere considerati con il massimo scrupolo. Lo studio viene effettato *solo* se c’e’ ragionevole incertezza su quale trattamento scegliere (e.g. quale trattamento e’ più efficace). Il ruolo dei Comitati Etici diventa cruciale nel valutare il protocollo dello studio prima di dare l’autorizzazione. Inoltre il comitato etico effettua un monitoraggio di tutto lo studio, predisponendo delle analisi ad interim durante tutta la durata del trial, per es. a 6, 12 e 18 mesi. Il comitato etico locale recepisce i dettami dell’International Review Board, salvaguardia i diritti e la salute dei pazienti che partecipano allo studio, verifica che i rischi siano ragionevoli in relazione ai benefici attesi, verifica che il consenso informato sia documentato per ogni partecipante allo studio, garantisce l’integrita’ scientifica del trial e ne dispone l’eventuale interruzione.
+
+**Motivi per l’interruzione del trial**. Un trial puo' essere interrotto prima del termine prefissato se c'e' evidenza di maggiore efficacia del trattamento sperimentale nell’analisi ad interim o al contrario se c'e'evidenza di inefficacia, se gli effetti collaterali del trattamento sono troppo gravi per continuare, se il reclutamento dei pazienti troppo lento, se i dati sono di scarsa qualita’, se c'e' scarsa compliance (aderenza al protocollo) o troppe perdite al followup.
+
+**Consenso informato**. Descrive la natura dello studio, i trattamenti, le procedure, i rischi ragionevoli 
+prevedibili e i benefici attesi. Deve indicare che lo studio e’ a fini di ricerca. Deve indicare che la partecipazione non implica perdita di benefici se il paziente rifiuta di partecipare durante lo studio (perdita al follow-up)
+
+## Risultati di uno studio sperimentale
+
+Gli esiti clinici (morte, guarigione, ricadute) sono spesso espresse con una variabile dicotomica (si / no, vivo / morto, ecc.). In questo caso, la misura di esito utilizzata in un RCT e’ l’incidenza cumulativa (o rischio di sviluppare l’esito) e i risultati sono organizzati in una tabella di contingenza. Nel caso invece che l’esito sia misurato tramite una variabile continua (per es. livelli marcatori ematici, scala infermieristica ecc.), si calcola il valore medio per gruppo.
+
+### Tabella di contingenza
+Quando l'esito e il trattamento sono quantificati tramite variabili dicotomiche, l'organizzazione dei dati prevede la realizzazione di una tabella 2x2 (due righe x due colonne). Si puo' organizzare le righe e le colonne come si vuole ma un metodo facile da ricordare prevede che:
+
+- la prima riga contenga il _trattamento sperimentale_
+
+- la seconda riga il _trattamento di controllo_
+
+- la prima colonna il numero di _esiti_, ovvero coloro che hanno avuto l'outcome durante il followup
+
+- la seconda colonna il numero di _non esiti_, ovvero coloro che non hanno avuto l'outcome
+
+|Trattamento |Esito|Non Esito|Tot|
+|:---|:---|:---|:---|
+|Trattamento Sperimentale|a|b|a+b|
+|Trattamento Controllo|c|d|c+d|
+|Tot |a+c|b+d|a+b+c+d|
+
+Cosi' facendo procedendo da sx a dx avreno le seguenti celle (a, b, c, d):
+
+a: numero esiti nel gruppo sperimentale
+
+b: numero di non esiti nel gruppo sperimentale 
+
+c: numero esiti nel gruppo controllo
+
+d: numero di non esiti nel gruppo controllo 
+
+Il totale della prima riga (a+b) rappresenta la somma dei pazienti che hanno ricevuto il trattamento sperimentale, mentre la somma della seconda riga (c+d) rappresenta la somma dei pazienti che hanno ricevuto il trattamento di controllo. La somma della prima colonna (a+c) rappresenta il totale dei pz che hanno avuto l'esito, la somma della seconda colonna (b+d) coloro che non lo hanno avuto. Il totale dei pz nel trial e' la somma dell 4 celle (a+b+c+d).
+
+### Incidenza di malattia
+
+L'incidenza (o rischio) di malattia e' il numero di casi registrati alla fine del follow up rispetto al numero di pz che facevano parte del gruppo all’inizio dello studio.
+
+$$Incidenza = \frac{Numero\ \ casi\ \ durante\ \ followup}{Numero\ \ pz\ \ che\ \ hanno\ \ iniziato \ \  followup}$$
+
+Esprime la probabilita’ di avere l’esito durante il followup in una certa popolazione.
+
+Si distinguono:
+
+>
+>EER (experimental event rate) = incidenza (o rischio) nel gruppo sperimentale 
+>
+>$$EER = \frac{a}{(a+b)}$$
+>
+> Dove a e' il numero di casi durante il followup nel gruppo sperimentale e (a+b) e' il numero di pz che hanno iniziato il followup nel gruppo sperimentale
+>
+> CER (control event rate) = incidenza (o rischio) nel gruppo di controllo 
+>
+>$$CER = \frac{c}{(c+d)}$$
+>
+> Dove c e' il numero di casi durante il followup nel gruppo di controllo e (c+d) e' il numero di pz che hanno iniziato il followup nel gruppo di controllo
+>
+
+**Esempio 1** 
+Viene condotto un ipotetico trial per verificare l’efficacia del trattamento della ferita chirurgica addominale infetta. Il trattamento sperimentale con iodopovidone e’ confrontato con il trattamento con clorexidina, l’esito e’ la guarigione (remissione dell’infezione del sito chirurgico) alla fine del followup). Nel gruppo iodopovidone iniziano il followup 100 pz, 90 guariscono. Nel gruppo clorexidina iniziano follow up 100 pz, 88 guariscono. 
+Quale dei due trattamenti sembra piu’ efficace? 
+
+Formuliamo il quesito di ricerca tramite il metodo PICO
+
+P: pz con ferita addome infetta 
+
+I: iodopovidone
+
+C: clorexidina
+
+O: guarigione
+
+Poi realizziamo la tabella di contingenza 2x2
+
+|Trattamento |Guarigione|Non Guarigione|Tot|
+|:---|:---|:---|:---|
+|Iodopovidone|90|10|100|
+|Clorexidina|88|12|100|
+|Tot |178|22|200|
+￼ 
+$$EER = \frac{90}{100} = 0.9 \ \ (90\%)$$
+
+$$CER = \frac{88}{100} = 0.88 \ \ (88\%)$$
+
+Conclusione: il trattamento piu' efficace sembra quello tramite iodopovidone perche' guariscono il 90% dei pazienti rispetto a 88% delle guarigioni che ottengo trattando la ferita con la clorexidina.
+
+**Esempio 2**
+Viene condotto un ipotetico trial per verificare quale trattamento di disinfezione preventiva del sito di inserimento del catetere arterioso sia piu’ efficace per la prevenzione delle infezioni (che rappresenta quindi l'esito studiato). Il confronto e’ tra soluzione alcolica (trattamento sperimentale) e soluzione saponosa (trattamento di controllo). Alla fine del followup nel gruppo soluzione alcolica su 100 pz, 2 hanno contratto le infezioni durante il followup; nel gruppo soluzione saponosa: inizio follow up 100 pz, 3 infezioni durante il followup. Quale dei due trattamenti sembra piu’ efficace?
+
+Formuliamo il quesito di ricerca tramite il metodo PICO
+
+P: pz con catetere arterioso 
+
+I: soluzione alcolica
+
+C: soluzione saponosa
+
+O: infezioni
+
+Poi realizziamo la tabella di contingenza 2x2
+
+|Trattamento |Infezione|Non Infezione|Tot|
+|:---|:---|:---|:---|
+|Sol. alcolica|2|97|100|
+|Sol. saponosa|3|98|100|
+|Tot |5|195|200|
+￼ 
+$$EER = \frac{2}{100} = 0.2 \ \ (2\%)$$
+
+$$CER = \frac{3}{100} = 0.3 \ \ (3\%)$$
+
+Conclusione: il trattamento preventivo piu' efficace sembra quello tramite soluzione alcolica perche' il 2% dei pazienti contrae un infezione al sito di inserzione del catetere rispetto a 3% nel gruppo trattato con soluzione saponosa.
+
+**Esempio 3**
+Viene condotto un ipotetico trial per verificare quale trattamento analgesico sia piu’ efficace per prevenire il dolore percepito dai bambini che devono essere sottoposto a sutura di una ferita lacero-contuse. 
+Il confronto e’ tra l'applicazione di pomata anestetica (trattamento sperimentale) e somministrazione di lidocaina sottocutanea (trattamento di controllo). L’esito e’ misurato mediante una scala di valutazione numerica (NRS, da 0 nessun dolore a 10 dolore molto forte). 
+
+Sono reclutati 8 bambini nel gruppo trattato con la pomata anestetica e 10 nel gruppo trattato con lidocaina. I valori della scala NRS dopo l'applicazione del trattamento sono i seguenti:
+
+|bambino |NRS|trattamento|
+|:---|:---|:---|
+|1|6|pomata|
+|2|8|pomata|
+|3|2|pomata|
+|4|10|pomata|
+|5|10|pomata|
+|6|4|pomata|
+|7|5|pomata|
+|8|5|pomata|
+|9|8|lidocaina|
+|10|10|lidocaina|
+|11|7|lidocaina|
+|12|2|lidocaina|
+|13|10|lidocaina|
+|14|3|lidocaina|
+|15|5|lidocaina|
+|16|7|lidocaina|
+|17|5|lidocaina|
+|18|3|lidocaina|
+
+
+Formuliamo il quesito di ricerca tramite il metodo PICO
+
+P: pz pediatrico con ferita lacero-contusa che richiede sutura 
+
+I: pomata analgesica
+
+C: lidocaina sottocutanea
+
+O: dolore percepito scala NRS
+
+Si noti che in questo caso l'esito e' quantificato tramite una variabile numerica. Calcoliamo quindi le medie nei due gruppi a confronto.
+
+Media NRS gruppo trattato con la pomata = 6.25 
+
+Media NRS gruppo trattato con lidocaina= 6.0 
+
+Conclusione: il trattamento con lidocaina sembra essere piu' efficace per rispetto alla pomata per l'analgesia del pz pediatrico che deve essere sottoposto a sutura di una ferita lacero-contusa.
+￼ 
+
+### Esercizi
+
+**Esercizio 1**
+Siete in servizio presso il reparto di pediatria. Un collega vi chiede se un bambino di 4 anni che deve essere sottoposto a sutura di una ferita lacero-contusa, l'applicazione di pomata anestetica sia meno dolorosa della somministrazione di lidocaina sottocutanea per l'analgesia (livello di dolore percepito). Fate la vostra ricerca nella banca dati e trovate uno studio sperimentale nel quale erano stati arruolati 255 bambini <5 anni con ferita lacero-contusa che dovevano essere sottoposti a sutura. Su ogni bambino veniva effettuata una valutazione del dolore percepito tramite scala VAS. Su 122 trattati con lidocaina, il livello di dolore alto era riportato da 90 di questi. Nel gruppo di controllo, 100 riportavano un alto livello di dolore percepito.
+
+1) Definire la tabella di contigenza con l’intestazione di righe e colonne
+
+2) Sulla base della tabella calcolare per ciascun gruppo l'incidenza dell'esito
+
+3) Quale trattamento sembra essere migliore e perche'?
+
+**Esercizio 2**
+Un collega vi chiede un parere sull'efficacia  dei bendaggi a 4 strati (4LB) in aggiunta alla terapia standard rispetto al bendaggio semplice (sempre in aggiunta alla terapia standard) per la medicazione delle ulcere venose aperte alle gambe negli anziani. Fate la vostra ricerca nella banca dati e trovate uno studio sperimentale con un followup di 2 mesi effettuato su pazienti >65 anni d'eta'. Su 215 pazienti che avevano ricevuto il bendaggio 4LB, 77 erano guariti. Nel gruppo di controllo su 209 pazienti, 62 erano guariti.
+
+1) Definire la tabella di contigenza con l’intestazione di righe e colonne
+
+2) Sulla base della tabella calcolare per ciascun gruppo l'incidenza dell'esito
+
+3) Quale trattamento sembra essere migliore e perche'?
+
+**Esercizio 3**
+Un ipotetico studio sperimentale condotto in reparto di medicina con l'obiettivo di valutare l'efficacia della terapia antibiotica locale per prevenire la colonizzazione post-operatoria del sito chirurgico ha riportato i seguenti risultati. Di 32 pz che hanno ricevuto preventivamente l'antibiotico A, 14 hanno riportato colonizzazione della ferita chirurgica. Dei 30 pz che hanno ricevuto preventivamente l'antibiotico B, 12 hanno riportato colonizzazione della ferita chirurgica.
+
+1) Definire la tabella di contigenza con l’intestazione di righe e colonne
+
+2) Sulla base della tabella calcolare per ciascun gruppo l'incidenza dell'esito
+
+3) Quale trattamento sembra essere migliore e perche'?
+
+### Misure di associazione
+
+Per confrontare numericamente i valori di indicenza degli esiti che si misurano nei due gruppi si hanno due opzioni:
+
+1.	Calcolare il rapporto di due misure di frequenza dell’evento (una misura per il gruppo sperimentale, l’altra per il gruppo di controllo). In questo caso la misura e' tipicamente l'incidenza.
+
+2.	Calcolare la differenza di due misure (una misura per il gruppo sperimentale, l’altra per il gruppo di controllo). In questo caso la misura puo' essere l'incidenza o la media (se l'esito e' espresso conuna variabile continua).
+
+#### Rischio relativo
+Il rischio relativo ($RR$) si utilizza quando si confronta l'incidenza dell'esito nel gruppo sperimentale e quello nel gruppo di controllo. Rischio relativo ovvero rapporto dei rischi e':
+
+$$ RR = \frac{ EER }{CER}$$
+
+Dove:
+
+EER: Incidenza esito nel gruppo sperimentale
+
+CER: Incidenza esito nel gruppo di controllo 
+
+Indica di quante volte è più grande (o piu’ piccola) l’incidenza di esito nel gruppo sperimentale rispetto a quella misurata nel gruppo di controllo. 
+
+Il rischio relativo assume il valore $RR=1$ quando l'incidenza di esito nel gruppo sperimentale e' uguale all'incidenza di esito nel gruppo di controllo. In questo caso quindi i due trattamenti hanno _uguale efficacia_. 
+
+Se l’esito in studio e’ un evento negativo per la salute (per es. la morte) e $RR>1$, significa che l'incidenza (il rischio) di morte e' piu' alto nel gruppo sperimentale. Concluderemo quindi che il trattamento sperimentale e' _meno efficacie_ rispetto a quello di controllo.
+￼ 
+Al contrario se l’esito in studio e’ un evento positivo per la salute (per es. la guarigione) e $RR>1$, significa che l'incidenza di guarigione e' piu' alto nel gruppo sperimentale. Concluderemo quindi che il trattamento sperimentale e' _piu' efficace_ rispetto a quello di controllo.
+
+**Interpretazione rischio relativo**. Il richio relativo da informazione sulla “forza” della relazione tra esposizione e evento. In altre parole possiamo concludere che i _pazienti del gruppo sperimentale hanno $RR$ volte la probabilita’ di avere l’esito in confronto ai pazienti del gruppo di controllo_. Oppure, in maniera equivalente, che l’ _incidenza dell’esito nel gruppo sperimentale e’ RR volte quella del gruppo di controllo_.
+
+**Esempio interpretazione rischio relativo**. Si immagini che un ipotetico studio per verificare l'efficacia di due trattamenti sulla guarigione dei pz ricoverati per una determinata patologia abbia dato i seguenti risultati: 
+
+Incidenza di guarigione nel gruppo sperimentale
+
+$EER = 0.2 =  20\%$
+
+Incidenza di guarigione nel gruppo di controllo
+
+$CER= 0.05 = 5\%$ 
+
+$$RR = \frac {20}{5} = 4$$ 
+
+La probabilita’ di guarigione con il trattamento sperimentale e’ 4 volte quella del trattamento di controllo 
+ovvero i pz trattati con il trattamento sperimentale (in media) hanno 4 volte la probabilita’ di guarire rispetto ai pz trattati con il controllo.
+
+#### Differenza dei rischi 
+La differenza dei rischi ($RD$) si utilizza, come il rischio relativo, quando si confronta l'incidenza dell'esito nel gruppo sperimentale e quello nel gruppo di controllo. 
+Rischio relativo ovvero rapporto dei rischi e':
+
+$$ RD = { CER -EER}$$
+
+
+Dove:
+
+EER: Incidenza esito nel gruppo sperimentale
+
+CER: Incidenza esito nel gruppo di controllo 
+
+Indica la differenza in valori assoluti dell’incidenza di esito nel gruppo sperimentale rispetto a quella misurata nel gruppo di controllo. 
+
+La differenza dei rischi assume il valore $RD=0$ quando l'incidenza di esito nel gruppo controllo e' uguale all'incidenza di esito nel gruppo sperimentale. In questo caso quindi i due trattamenti hanno _uguale efficacia_. 
+
+Se l’esito in studio e’ un evento negativo per la salute (per es. la morte) e $RD>0$, significa che l'incidenza (il rischio) di morte e' piu' alto nel gruppo di controllo. Concluderemo quindi che il trattamento sperimentale e' _piu' efficace_ rispetto a quello di controllo.
+￼ 
+Al contrario, se l’esito in studio e’ un evento positivo per la salute (per es. la guarigione) e $RD>0$, significa che l'incidenza di guarigione e' piu' alto nel gruppo di controllo. Concluderemo quindi che il trattamento sperimentale e' _meno efficace_ rispetto a quello di controllo.
+
+Si noti che $RD$ puo' assumere valori negativi (varia tra -inf e +inf).
+
+**Interpretazione differenza dei rischi**. La differenza dei rischi da informazione sulla differenza assoluta nelle incidenze di evento nei due gruppi a confronto. In altre parole possiamo concludere che i _la differenza dell'incidenza di esito tra il gruppo sperimentale e quello di controllo e' pari a $RD$_. 
+
+**Esempio interpretazione differenza dei rischi**. Si immagini che un ipotetico studio per verificare l'efficacia di due trattamenti per prevenire la morte dei pz ricoverati per una determinata patologia abbia dato i seguenti risultati: 
+
+Incidenza di morte nel gruppo sperimentale:
+
+$EER = 5\%$
+
+Incidenza di guarigione nel gruppo di controllo:
+
+$CER= 20\%$ 
+
+$$RD = 20\%-5\% = 15\%$$ 
+
+Quindi la differenza nella probabilita’ di morte tra il trattamento sperimentale e quello di controllo e’ di 15% (15 punti percentuale).
+
+#### Differenza delle medie 
+Come gia' detto, quando l'esito viene quantificato tramite variabile continua, il confronto tra i due gruppi deve essere effettuato tramite un confronto tra medie. La differenza risultante esprimera' in termini assoluti la differenza nei valori della variabile di esito.
+
+### Esempi
+
+**Esempio 1** 
+Viene condotto un ipotetico trial per verificare l’efficacia del trattamento della ferita chirurgica addominale infetta. Il trattamento con iodopovidone e’ confrontato con il trattamento con clorexidina, l’esito e’ la guarigione (remissione dell’infezione del sito chirurgico) alla fine del followup. Si ottengono i seguenti valori
+
+$EER= 90%$ 
+
+$CER= 88%$ 
+
+$RR = \frac{EER} {CER} = \frac{0.9} {0.88} = 1.02$
+
+La probabilita’ di guarigione nei pz trattati con iodopovidone e’ 1.02 volte quello dei pz trattati con clorexidina 
+
+$RD = CER – EER = 88\% - 90\% = - 2\%$ 
+
+Interpretazione: la differenza delle probabilita’ di guarigione tra i pz trattati con iodopovidone e quelli trattati con clorexidina e’ del 2% a favore dello iodopovidone.
+
+Conclusione: il trattamento della ferita chirurgica addominale infetta con iodopovidone sembra essere piu' efficace rispetto all’uso di clorexidina
+
+**Esempio 2**
+Viene condotto un ipotetico trial per verificare quale trattamento di disinfezione preventiva del sito di inserimento del catetere arterioso sia piu’ efficace per la prevenzione delle infezioni. Il confronto e’ tra soluzione alcolica (trattamento sperimentale) e soluzione saponosa (trattamento di controllo). Si ottengono i seguenti valori:
+
+$EER= 2\%$ 
+
+$CER= 3\%$ 
+
+$RR = \frac{EER} {CER} = \frac{0.02}{0.03} = 0.66$
+
+La probabilita’ di infezione nei pz trattati con soluzione alcolica e’ 0.66 volte quello dei pz trattati con soluz saponosa.
+
+$RD = CER – EER = 3\%-2\% = 1\%$ 
+
+Interpretazione: la differenza delle probabilita’ di infezione tra i pz trattati con soluzione alcolica e quelli trattati con sol. saponosa e’ del 1% a favore della soluzione alcolica.
+
+Conclusione: L’uso di soluzione alcolica sembra essere piu’ efficace della soluzione saponosa per la disinfezione preventiva del sito di inserimento del catetere arterioso 
+
+**Esempio 3**
+Viene condotto un ipotetico trial per verificare quale trattamento analgesico sia piu’ efficace per prevenire il dolore percepito dai bambini che devono essere sottoposto a sutura di una ferita lacero-contuse. 
+Il confronto e’ tra l'applicazione di pomata anestetica (trattamento sperimentale) e somministrazione di lidocaina sottocutanea. 
+L’esito e’ misurato mediante una scala di valutazione numerica (NRS, da 0 a 10). 
+
+Gruppo pomata: $media\ \ NRS = 6.25$ 
+Gruppo lidocaina: $media\ \ NRS = 6.0$
+
+$Differenza \ \ media \ \ trattamenti = 6 – 6.25 = -0.25$
+
+Interpretazione: la differenza degli score della scala NRS tra i pz trattati con pomata anestetica e quelli trattati con lidocaina e’ -0.25. 
+
+Conclusione: per l’analgesia dei bambini che devono essere sottoposto a sutura di una ferita lacero-contuse e’ piu’ efficace l’uso della lidocaina 
+ 
+
+### Esercizi 
+
+**Esercizio 1**. Lavorate in un reparto di ortopedia. I pazienti operati per inserzione di protesi alle ginocchia vengono dimessi dopo solo tre giorni di degenza (salvo complicazioni). Il capo reparto vi chiede se un intervento tramite telefonata dell'infermiere al pz possa migliorare lo stato di salute fisico precepito ad 1 mese dall'intervento. Nella telefonata l'infermiere puo' informarsi sullo stato della convalescenza, rispondere alle eventuali domande del pz ed indirizzarlo verso le opportune terapie se necessario. Lo stato di salute fisico e' quantificato mediante una scala con score da 0 (pessimo) a 12 punti (ottimo) che viene pero' ricodificata in due sole categorie (stato salute cattivo e stato salute buono). 
+Alla fine del follow up su 166 pz nel gruppo sperimentale,  120 pz riportavano un buono stato di salute; nel gruppo di controllo su 140 pz, 88 riportavano un buono stato di salute.
+
+1) Definire il quesito di ricerca (PICO)
+
+2) Definire la tabella di contigenza con l’intestazione di righe e colonne
+
+3) Sulla base della tabella calcolare per ciascun gruppo l'incidenza dell'esito
+
+4) Calcolare il rischio relativo e la differenza dei rischi
+
+5) Interpretare il rischio relativo e la differenza dei rischi
+
+6) Quali sono le vostre conclusioni in merito al quesito di ricerca? L'intervento sperimentale e' efficace?
+
+**Esercizio 2**. L'assistenza casalinga al pz molto anziano, allettato e con diagnosi di demenza viene spesso effettuata da uno dei familiari (care-giver), con possibili conseguenze di stress per lui/lei. Lavorate come infermiere di comunita' e vi chiedete se interventi di supporto mirati al care-giver nella forma di consulti telefonici con personale infermieristico specializzato possano possano diminuire il livello di stress percepito. Lo scopo delle telefonate e' rispondere alle eventuali domande del caregiver sull'assistenza al congiunto, valutare il suo livello di stress ed indirizzarlo verso le opportune terapie se necessario. Arruolate in questo trial 180 care-giver con un followup di 1 anno. A 88 di questi, effettuate 1 telefonata al mese, ed alla fine del followup rilevate un alto livello di stress in 50 caregivers. Nel gruppo di controllo (senza telefonata) misurate alla fine del follow up un alro livello di stress in 66 care givers.
+
+1) Definire il quesito di ricerca (PICO)
+
+2) Definire la tabella di contigenza con l’intestazione di righe e colonne
+
+3) Sulla base della tabella calcolare per ciascun gruppo l'incidenza dell'esito
+
+4) Calcolare il rischio relativo e la differenza dei rischi
+
+5) Interpretare il rischio relativo e la differenza dei rischi
+
+6) Quali sono le vostre conclusioni in merito al quesito di ricerca? L'intervento sperimentale e' efficace?
+
+**Esercizio 3**. Siete un infermiere di famiglia. Volete valutare l’efficacia di un intervento informativo sui ragazzi tra 12 e i 14 anni per la prevenzione delle malattie sessualmente trasmesse (MST). Decidete di fare un trial di comunita’. In una scuola e in alcune classi estratte a caso effettuate l’intervento mentre in altre no. Due mesi dopo l’intervento misurate tramite questionario l’attitudine ai corretti comportamenti preventivi verso le MST (esito: punteggio scala numerica da 0=scorrette a 10=corrette). Avete ottenuto i seguenti dati:
+
+Gruppo che ha ricevuto l’intervento educativo: numero ragazzi = 50, media punteggio = 3.2
+
+Gruppo di confronto: numero ragazzi = 50, media punteggio = 2.8 
+
+1) Definire il quesito di ricerca (PICO)
+
+2) Calcolare la differenza nell'effetto del trattamento 
+
+3) Interpretare la differenza nell'effetto del trattamento 
+
+4) Quali sono le vostre conclusioni in merito al quesito di ricerca? L'intervento educativo e' efficace?
+
+## Validita’ interna di uno studio
+Quando leggiamo i risultati di uno studio dobbiamo poter valutare la validita’ e precisione della stima dell’associazione tra trattamento ed esito. La maggiore (o minore) efficacia del trattamento sperimentale rispetto a quello di controllo si basa sul valore della misura di associazione (il rischio relativo RR o la differenza dei rischi RD) che viene ottenuta su un campione estratto dalla popolazione di pazienti. Ma quanto e' affidabile e preciso questo risultato? Dobbiamo dotarci di un metodo che ci permetta di capire quanto e' affidabile il valore di RR (o quello di RD) ottenuto dal campione, ovvero quanto esso sia vicino al valore che misurerei nell'ipotetico caso che potessi includere nello studio l'intera popolazione (teoricamente infinita) di possibili pazienti. In particolare, vorremo evitare di sbagliare nel concludere che un trattamento e' piu' efficace dell'altro quando invece questo non e' vero.
+
+### Intervallo di confidenza (IC)
+Chiamiamo *parametro* il valore di RR (o di RD) che quantifica l'associazione tra trattamento e esito nella popolazione (teoricamente infinita) dalla quale noi abbiamo estratto il campione di pz che abbiamo incluso nello studio. Su questo campione abbiamo ottenuto una *stima* del RR. La nostra ambizione pero' e’ estendere le conclusioni dello studio a tutti i pazienti che fanno parte della popolazione, cioe’ applicare il trattamento piu’ efficace su tutti i pz affetti da quella patologia. Vorremmo quindi conoscere il valore dell'associazione tra trattamento ed esito nella popolazione (il *parametro*) senza pero' poterla misurare direttamente ma soltanto basandoci sul nostro campione di pazienti. 
+
+Quanto la *stima* del RR ottenuta sul campione e' vicina al RR (sconosciuto) della popolazione da cui il campione e' stato estratto? Non possiamo saperlo ma _sui dati del campione_ possiamo calcolare un intervallo di valori all'interno del quale siamo ragionevolemente certi che esso ricada. L’*intervallo di confidenza (IC)* indica, con un certo grado di certezza (di solito 95%), i valori entro i quali il parametro della popolazione, che tentiamo di stimare con il nostro campione e che non potremmo mai misurare, e’ compreso. Lo stesso ragionamento esposto sopra e' valido anche per la differenza dei rischi RD.
+
+Quando quantifichiamo l'associazione tra esposizione ed esito usando il rischio relativo, se il valore nullo $RR=1$ e’ compreso nell’intervallo, allora _non_ possiamo escludere che il parametro della popolazione da cui e
+ estratto il campione sia proprio 1. Conseguentemente, non possiamo essere certi della maggiore o minore efficacia del trattamento sperimentale rispetto a quello di controllo.
+
+Allo stesso modo utilizzando la differenza dei rischi, se il valore nullo della misura di associazione $RD = 0$ e’ compreso nell’intervallo, allora non possiamo escludere che il parametro della popolazione sia proprio 0. Ne segue che non possiamo essere certi della maggiore o minore efficacia del trattamento sperimentale rispetto a quello di controllo. 
+￼ 
+L'intervallo di confidenza ha anche una seconda caratteristica molto utile: ci dice anche quanto la stima ottenuta sul campione e' precisa. Tanto piu' ampio e' l'intervallo di confidenza, quanto piu' la stima ottenuta sul campione sara' imprecisa. Al contrario, minore è l'ampiezza dell'intervallo di confidenza, più precisa sara' la nostra stima puntuale (ovvero minore e’ la variazione casuale dei nostri dati). 
+￼ 
+Interpretazione efficacia del trt sperimentale rispetto al trt di controllo
+
+|Esito| Associazione | Intervallo di confidenza |Efficacia del trt sperimentale rispetto al controllo|
+|:---|:---|:--- |:---|
+|Morte|RR=1.05|1.01 ; 1.10| Minore efficacia |
+|Ricadute| RR= 0.9 |0.8 ; 1.45| uguale| 
+Morte |RR= 0.80| 0.7, 0.9 |Maggiore efficacia| 
+|Guarigione| RD= -1.2 |-1.4; -0.8| Maggiore efficacia |
+|Infezioni |RD= 1.2 |-0.4 ; 2 |uguale |
+|Guarigione| RD= -2.0 |-3.5, 0.5 |uguale |
+
+
+### Bias
+Errore sistematico che comporta una stima incorretta o non valida della misura dell’associazione tra esposizione e outcome. E’ commesso dallo sperimentatore(Non si puo’ correggere (o diminuire) a posteriori 
+￼ 
+Principali bias dei trial 
+
+|Tipo di bias| Descrizione |Perche’ |
+|:---|:---|:--- |
+|selezione (partecipazione)| Differenze tra i due gruppi delle caratteristiche dei pz al baseline| scorretta randomizzazione |
+|informazione (accertamento)| Differenze sistematiche nel modo con cui il trattamento e’ amministrato o nella misura dell'outcome| scorretto mascheramento |
+|selezione (violazione protocollo)| Differenze nelle caratterische dei pz che si ritirano dallo studio o cambiano gruppo o non aderiscono alprotocollo |Perdite al follow up o switch o non aderenza al trattamento differenziale tra i due gruppi 
+|informazione (reporting) |Differenze sistematiche nel reporting dei risultati (es. riporto solo risultati positivi)| Reporting selettivo |
+
+
+**Scorretta randomizzazione**. E’ un esempio di bias di selezione. Si immagini di avere pz eleggibili al trial con diversa fragilita’ clinica: una randomizzazione non corretta porta alla formazione gruppi non omogenei per condizioni cliniche, comorbidita’, eta’, sesso ecc. Se per esempio una maggiore quota di pz fragili fosse assegnata al gruppo che riceve il trattamento di controllo, potremmo avere una maggiore efficacia del trattamento sperimentale non dovuta' alla bonta' del trattamento ma alla diversa composizione dei gruppi. L’effetto del trattamento sperimentale sara’ quindi confuso da tutte le altre variabili che possono influenzare l’esito. Una corretta procedura di randomizzazione e' tale che l’assegnazione di un certo pz ad un gruppo e' casuale e quindi non puo’ essere nota in anticipo agli operatori.
+
+**Scorretto o assenza di mascheramento**. Conoscere il trattamento (se sperimentale o controllo) che viene amministrato ai pz causa un errore sistematico nella somministrazione del trattamento e nell’accertamento dell’esito che dipende dalle aspettative ottimistiche dello staff che compie il trial. A questo si aggiunge l'effetto placebo del pz. Per questo motivo il trattamento assegnato al pz non dovrebbe essere riconoscibile. Ovviamente, se per la somministrazione di farmaci spesso il mascheramento e' possibile per altri interventi assistenziali no.
+
+**Perdite al followup, non compliance, switch**. E’ un esempio di bias di selezione. Si verifica quando le perdite al followup sono differenziali (maggiore in un gruppo rispetto all’altro) oppure la non aderenza al protocollo (compliance) o il passaggio da un gruppo all’altro (switch) riguardano in maniera maggiore uno dei due trattamenti.Per giudicare quanto questo fenomeno possa influire sui risultati, deve essere presente nella pubblicazione una descrizione del numero di soggetti che hanno abbandonato il followup, non compliant e che hanno effettuato lo switch.
+
+### Tipi di analisi
+
+**Analisi secondo intenzione al trattamento (“intention to treat”)**. In questa tipologia di analisi del dato di un trial l’incidenza di esito nei due gruppi viene calcolata usando al denominatore tutti gli individui che hanno iniziato il followup in un certo gruppo.
+
+$EER = \frac {esiti\ \ gruppo \ \ sperimentale}{pz \ \ gruppo \ \ sperimentale}$
+
+$CER = \frac {esiti\ \ gruppo \ \ controllo}{pz \ \ gruppo \ \ controllo}$
+
+**Analisi secondo protocollo (“per protocol”)** In questa tipologia di analisi del dato di un trial l’incidenza di esito nei due gruppi viene calcolata usando al denominatore solo i soggetti che hanno concluso il followup all’interno del gruppo al quale erano stati assegnati. Si escludono dal calcolo sia del numeratore sia del denominatore i pz persi al followup, quelli non aderenti al protocollo e coloro che hanno cambiato gruppo.
+
+$EER = \frac {esiti\ \ gruppo \ \ sperimentale}{pz \ \ gruppo \ \ sperimentale^1}$
+
+$CER = \frac {esiti\ \ gruppo \ \ controllo}{pz \ \ gruppo \ \ controllo^1}$
+
+*(1) solo pz che hanno finito il follow up seguendo il protocollo nel gruppo di assegnazione*
+
+L'analisi intention to treat e' preferibile perche' rispetta l'assegnazione casuale dei pz ai due gruppi, garantendo quindi l'assenza di bias di selezione e produce stime vicine alla realtà (ci saranno sempre dei non compliant). Tuttavia, tende a sottostimare l'effetto del trattamento. L'analisi secondo protocollo non rispetta l’assegnazione casuale ma produce stime accurate nel sottogruppo di popolazione che ha seguito il protocollo. Tende a sovrastimare l'effetto trattamento
+
+## Valutazione critica RCT (critical appraisal)
+
+In generale gli studi sperimentali sono il modello preferibile per la sperimentazione clinica e, nello specifico, sono i piu' efficienti ed affidabili quando i quesiti assistenziali che rigurdano l'efficacia dei trattamenti infermieristici. I **vantaggi** degli studi sperimentali comprendono: 1)  sono gli studi che se ben condotti sono più corretti da un punto di vista metodologico; 2) costituiscono gli unici modelli di studio in grado di stabilire l’efficacia degli interventi; 3) se ben condotti non sono suscettibili a bias di selezione, di classificazione e di confondimento. Tra gli **svantaggi** ricordiamo: 1) problemi etici; 2) lunga durata, costi elevati, difficoltà organizzative; 3) Problemi di validita’ esterna: non sempre il risultato di questa procedura controllata in ogni sua fase e’ applicabile al setting assistenziale in condizioni di "real life".
+
+Quando esaminiamo uno studio dobbiamo valutarlo criticamente in termini di validita' interna, significativita' clinica e applicabilita'. In altri termini dobbiamo verificare non solo che uno studia sia corretto dal punto di vista delle metodologie (come e' stato condotto) ma anche che sia affidabile e rilevante (faccia la differenza) in merito al quesito assistenziale. 
+
+E' importante effettuare una valutazione critica secondo lo schema seguente.
+
+|Cosa dobbiamo capire |Indicatore| come |
+|:---|:---|:--- |
+|Lo studio e’ valido? |Assenza di bias |Controllo le metodologie utilizzate| 
+|E’ significativo dal punto di vista clinico? |Effetto del trattamento fa la differenza in termini clinici (non statistici)| Esamino la grandezza del RR e RD e l’intervallo di confidenza |
+Le conclusioni sull’efficacia del trattamento sono applicabili ai miei pz?|Quanto la popolazione studiata e’ simile alla mia |Rifletto se il trattamento e le metodologie sono applicabili al mio setting assistenziale|
+
+
+**Validita’ interna**. Consiste nel verificare, esaminando la sezione dei methods della pubblicazione, l'assenza di bias. Cosa devo chiedermi quando leggo il lavoro: 
+		- l’assegnazione dei pz al trattamento era randomizzata? 
+		- la randomizzazione era “nascosta” agli operatori? 
+		- i gruppi erano simili all’inizio dello studio? 
+		- Il follow up era sufficientemente lungo e completo? 
+		- l’analisi e’ stata eseguita secondo intention to treat? 
+		- il mascheramento e’ stato effettuato? 
+
+**Significativita’ clinica**. Consiste nel verificare, esaminando la sezione results della pubblicazione, quanto siano affidabili i risultati: 
+		- la dimensione dell’effetto del trattamento e’ clinicamente rilevante? 
+		- quanto e’ precisa la stima del trattamento? 
+		- e’ stato utilizzato un esito clinico o un esito surrogato? 
+		- i benefici della terapia superano gli eventuali danni?  
+
+**Applicabilita’ clinica**
+Consiste nel verificare, esaminando la sezione discussion della pubblicazione, quanto siano generalizzabili i risultati. Ovvero si deve riflettere se l'intervento che risulta piu' efficace nello studio sia poi applicabile e mantenga le proprie prerogative di maggiore efficacia anche in altri setting assistenziali ed in condizioni di real life. Sono aspetti da considerare:
+		- il mio pz e’ sufficientemente simile a quelli considerati nello studio? 
+		- il trattamento e’ attuabile nel mio contesto lavorativo? 
+		- il trattamento e’ attuabile al mio pz, tenuto conto delle sue preferenze e aspettative? 
+		- posso estrapolarne i risultati e applicarli al mio posto di lavoro? 
+
+**Valutazione critica RCT- check list** 
+Le check list sono molto utili durante la lettura per fare un sommario dei punti di forza e delle debolezze di uno studio. Di seguito, a titolo di esempio,  e' riportata un checklist semplificata. Si legge lo studio e si risponde alle seguenti domande (critical appraisal) con si/no/non riportato (nr): 
+
+|Domanda	| Risposta (barrare ove appropriato)|	
+|:---	|---:|
+|1.Lo studio si basa su un quesito valido (es. riconducibile al PICO)?|	SI /	NO /	Non riportato|
+|			|	|	
+|2. Gli autori usano un tipo di studio adeguato al quesito?|	SI /	NO /	Non riportato|
+|			|	|	
+|**3. VALIDITA'**			|	|
+|3.1 Il gruppo sperimentale ed il gruppo di controllo sono simili in termini di prognosi all’inizio dello studio?|	SI /	NO /	Non riportato|
+|3.2 l’assegnazione dei pazienti ai gruppi era randomizzata?|	SI /	NO /	Non riportato|
+3.3 mascheramento della procedura di randomizzazione?	|	SI /	NO /	Non riportato|
+3.4 e’ seguita l’analisi intention to treat (ovvero considerando tutti i soggetti presenti all’inizio del trial)?	|	SI /	NO /	Non riportato|
+3.5 i gruppi erano simili per tutti i fattori conosciuti (tranne ovviamente il trattamento)?	|	SI /	NO /	Non riportato|
+3.6 mantenevano la stessa prognosi anche dopo l’avvio dello studio?	|	SI /	NO /	Non riportato|
+3.7 pazienti in cieco (singolo cieco)?	|	SI /	NO /	Non riportato|
+3.8 somministratori del trattamento in cieco (doppio cieco)?	|	SI /	NO /	Non riportato|
+3.9 analisti in cieco (triplo cieco)?	|	SI /	NO /	Non riportato|
+3.10 il follow up era completo?	|	SI /	NO /	Non riportato|
+|			|	|	
+|**4. RISULTATI** Calcolare per ogni esito (endpoint)|			
+|4.1 Rischio gruppo trattato  |	|
+|4.2 Rischio gruppo confronto 	|	|
+|4.3 Differenza del rischio (con IC95%)			|	|	
+|4.4 Rapporto dei rischi (con IC95%)			|	|
+|4.5 NNT			|	|	
+|			|	|		
+|**5. APPLICABILITA’ DEI RISULTATI**			|	|
+|5.1 I pazienti dello studio sono simili a quelli che riscontro in ambito clinico?	|	SI /	NO /	Non riportato|
+|5.2 Gli outcome considerati sono clinicamente rilevanti?	|	SI /	NO /	Non riportato|
+|5.3 I benefici bilanciano i danni e i potenziali costi?	|	SI /	NO /	Non riportato|
+|			|	|	
+|**6. CONCLUSIONI**|	|	|	|			
+|6.1 Lo studio ha un quesito ed un disegno appropriato?	|	SI /	NO /	Non riportato|
+|6.2 Lo studio ha validita’ interna soddisfacente?	|	SI /	NO /	Non riportato|
+|6.3 I risultati dello studio sono significativi dal punto di vista clinico?	|	SI /	NO /	Non riportato|
+|6.4 I risultati  sono applicabili nella pratica quotidiana?	|	SI /	NO /	Non riportato|
+
+### Esercizio 
+Leggere criticamente lo studio _Efficacia della medicazione sterile trasparente per il fissaggio del catetere venoso periferico (CVP) sull’incidenza delle flebiti rispetto all’uso della medicazione standard: un trial randomizzato e controllato_ e compilare la scheda di valutazione critica (con si/no o calcolando i valori tramite OpenEpi)
+
+
+￼ 
