@@ -11,7 +11,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-#github-repo: CrumpLab/OER_bookdown
+github-repo: asolimini/EBN
 description: "Principi di epidemiologia per la pratica infermieristica basata sulle prove di efficacia"
 ---
 
@@ -21,7 +21,7 @@ description: "Principi di epidemiologia per la pratica infermieristica basata su
 #knitr::include_graphics("EBN_ciclo.png")
 ```
 
-Angelo Solimini (2021). Appunti di epidemiologia per le scienze infermieristiche. https://sitoweb/
+Angelo Solimini (2021). Appunti di epidemiologia per le scienze infermieristiche. https://asolimini-website.netlify.app/
 
 Questo documento e' una introduzione ai principi epidemiologici utili per l'infermiere interessato alla pratica clinica basata sulle prove di efficacia. Ogni capitolo e' completato da esempi e alcuni esercizi. 
 
