@@ -42,3 +42,7 @@ bias
 tipi-di-analisi
 valutazione-critica-rct-critical-appraisal
 esercizio-2
+fonti-di-conoscenza
+piramide-delle-evidenze
+misure-di-associazione-tra-trattamento-ed-esito
+numero-necessario-da-trattare

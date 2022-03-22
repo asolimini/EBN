@@ -54,13 +54,13 @@ Gli elementi che vanno considerati sono:
 **Stato e circostanze cliniche**. Lo stato e le circostanze cliniche (es. gravità della malattia, instabilità clinica, comorbidità) influenzano l'intensità assistenziale (o setting assistenziale). L’aspetto essenziale delle decisioni cliniche basate sull’evidenza è quello di effettuare azioni assistenziali appropriate alle specifiche circostanze del paziente. 
   
   
-**Preferenze ed azioni del paziente**. Le preferenze e le azioni del paziente si riferiscono alle aspettative che il paziente ha e che vanno considerate nella decisione clinica. Si noti come le azioni del paziente possono essere differenti dalle sue preferenze e/o desideri. Per esempio, un paziente può accettare di perdere peso, smettere di fumare o prendere la terapia prescritta ma poi puo' non riuscire a raggiugere questi obiettivi. 
+**Preferenze ed azioni del paziente**. Le preferenze e le azioni del paziente si riferiscono alle aspettative che il paziente ha e che vanno considerate nella decisione clinica. Si noti come le azioni del paziente possono essere differenti dalle sue preferenze e/o desideri. Per esempio, un paziente può accettare "a parole" di perdere peso, smettere di fumare o prendere la terapia prescritta ma poi puo' non riuscire "nei fatti" a raggiugere questi obiettivi. 
   
   
 **Risorse disponibili**. Si riferiscono alle risorse utilizzabili per erogare l’assistenza infermieristica in un contesto organizzativo specifico in termini di dispositivi e presidi medici (qualità struttura), qualità del processo di assistenza, abilità e numerosità del personale, tempo a disposizione ecc. 
   
   
-**Evidenze dalla ricerca**. Nel nursing, come in tutte le scienze sanitarie, la migliore evidenza prodotta dalla ricerca si riferisce a studi epidemiologici che siano metodologicamente corretti e clinicamente rilevanti. Le linee guida e i protocolli diagnostico-terapeutici sono basati su prove (in inglese "evidences") di efficacia e sicurezza. Ne segue che le regole formali per interpretare i risultati della ricerca clinica devono essere insegnate come parte della regolare formazione infermieristica. Identificare le migliori evidenze scientifiche richiede quindi rudimentali nozioni di epidemiologia.
+**Evidenze dalla ricerca**. Nel nursing, come in tutte le scienze sanitarie, la migliore evidenza prodotta dalla ricerca si riferisce a studi epidemiologici che siano metodologicamente corretti e clinicamente rilevanti. Le linee guida e i protocolli diagnostico-terapeutici sono basati su prove (in inglese "evidences") di efficacia e sicurezza. Ne segue che le regole formali per interpretare i risultati della ricerca clinica devono essere insegnate come parte della regolare formazione infermieristica. Identificare le migliori evidenze scientifiche richiede rudimentali nozioni di epidemiologia.
   
   
 **Esperienza personale** 
@@ -84,7 +84,7 @@ Alcune conseguenze della non applicazione dei principi EBN sono la erogazione di
 Uno degli ostacoli allo sviluppo dell’EBN in Italia è rappresentato dalla resistenza del personale infermieristico al cambiamento: conservazione della tradizionale organizzazione per compiti e consuetudine alle routine. L’assenza di sufficiente razionalita' organizzativa e di adeguate motivazioni scientifiche a supporto delle attività̀ assistenziali determinano spreco di risorse professionali e bassa efficacia complessiva dell’assistenza. Questo si associa spesso a demotivazione e all'abbassamento dei livelli di professionalita' del personale infermieristico.
   
   
-Un altro problema è costituito dall'assenza di risultati o risultati contrastanti della ricerca per alcuni quesiti clinici ("Zone grigie" della letteratura). In molti settori dell’assistenza, come più̀ in generale della medicina, vi sono numerose ed ampie zone grigie dove non sono reperibili evidenze sull’efficacia di un intervento assistenziale e/o delle sue alternative.
+Un altro problema è costituito dall'assenza di risultati o risultati contrastanti della ricerca per alcuni quesiti clinici ("zone grigie" della letteratura). In molti settori dell’assistenza, come più̀ in generale della medicina, vi sono numerose ed ampie zone grigie dove non sono reperibili evidenze sull’efficacia di un intervento assistenziale e/o delle sue alternative.
   
   
 Altri ostacoli all'implementazione della EBN sono l'incremento continuo di nuove conoscenze che rende estremamente difficile per qualsiasi professionista mantenersi aggiornato e la scarsa trasferibilità dei risultati di alcune ricerche alla pratica clinica. Infine, la formazione universitaria fornisce solo in parte competenze specifiche per la ricerca e l’approccio critico alla letteratura sanitaria. A questo si sommano una scarsa conoscenza della lingua inglese, una limitata diffusione dei moderni strumenti d’informazione ed informatici nelle nostre strutture assistenziali. 
@@ -128,7 +128,7 @@ Operativamente si possono identificare 5 fasi:
 4) adeguare la pratica clinica alle indicazioni individuate 
   
   
-5) rivalutazione periodica
+5) rivalutare periodicamente l'efficacia
   
   
 **Implicazioni**
@@ -151,19 +151,13 @@ Le implicazioni di questo modello di assistenza al paziente sono:
 - rivaluta periodicamente l'appropriatezza dell'intervento.
   
   
-{figura ciclo EBN}
 
-### Problema assistenziale e quesito di ricerca
+## Problema assistenziale e quesito di ricerca
 La prima fase del ciclo EBN riguarda l'individuazione del problema relativo all'assistenza e la sua trasformazione in un quesito di ricerca che possa essere utilizzato in una banca dati. Il problema assistenziale sono le domande che l’infermiere si pone ogni volta che visita un paziente e che individuano le informazioni di cui ha bisogno per prendere la migliore decisione in ambito assistenziale. Quindi tutto nasce dai bisogni/richieste assistenziali del paziente che rimangono ancora irrisolti e che possono essere inerenti la diagnosi, il trattamento (terapia), la prognosi, l'eziologia o la prevenzione di una certa condizione medica.
   
   
 **Formulazione ed importanza del quesito di ricerca**
-  
-  
-Il quesito di ricerca è fondamentale per il processo EBN. Esso deriva dal problema assistenziale che, a sua volta, origina dall'osservazione del paziente.
-  
-  
-“Finché non si è in grado di formulare quesiti a cui è possibile rispondere, si è destinati a sprecare molto del limitato tempo dedicato alla ricerca ed alla consultazione della letteratura disponibile con la conseguenza di rimanere non solo frustrati, ma di vedere diminuire la propria competenza clinica” (Chiari et al., 2011). 
+Il quesito di ricerca è fondamentale per il processo EBN. Esso deriva dal problema assistenziale che, a sua volta, origina dall'osservazione del paziente. “Finché non si è in grado di formulare quesiti a cui è possibile rispondere, si è destinati a sprecare molto del limitato tempo dedicato alla ricerca ed alla consultazione della letteratura disponibile con la conseguenza di rimanere non solo frustrati, ma di vedere diminuire la propria competenza clinica” (Chiari et al., 2011). 
   
   
 **Perchè è importante chiarire bene il quesito di ricerca?** Perchè dal quesito vengono estratte le parole chiave che useremo nella interrogazione della banca dati. Dalla chiara espressione del quesito di ricerca possiamo definire i criteri di inclusione o di esclusione, ovvero a quali pazienti possono essere applicati i risultati della ricerca. La tipologia del quesito indica anche quale tipo di studio dobbiamo cercare.
@@ -429,27 +423,19 @@ La ricerca clinica è l'oggetto dell'epidemiologia. Per questo motivo l'infermie
 
 L'epidemiologia fornisce ai professionisti della sanità l’insieme dei metodi che permettono di effettuare ricerca in ambito clinico, leggere criticamente la letteratura scientifica ed interpretarne i risultati. È una disciplina metodologica che studia
 
->la distribuzione e la frequenza degli esiti di salute e dei loro determinanti (ovvero i fattori che sono associati con un maggiore / minore rischio di esito) nelle popolazioni e l’applicazione dei risultati/conoscenza prodotta in sanità pubblica {figura epi demos logos}
+>la distribuzione e la frequenza degli esiti di salute e dei loro determinanti  nelle popolazioni e l’applicazione dei risultati/conoscenza prodotta in sanità pubblica 
 
-Alcuni degli obiettivi degli studi epidemiologici sono:
+![](./img/epidemoslogos.png){width=80%}
 
-- Descrizione dei bisogni di salute;
-
-- Descrizione dei bisogni assistenziali;
-
-- Individuazione di fattori di rischio per la salute in popolazioni target (per es. obesità infantile);
-
-- Individuazione di fattori prognostici per il decorso clinico in popolazioni di pz
-
-- Valutazione di efficacia degli interventi clinici;
-
-- Valutazione di efficacia di interventi disposti sulla popolazione (per es. vaccinazione)
+  
+Esaminiamo brevemente le componenti della definizione che abbiamo proposto:
+  
+   
+  
+**Esito (outcome)** L'epidemiologia studia sia gli esiti “negativi” sia gli esiti “positivi” per la salute (in inglese: esito = _outcome_). Sono esempi di esiti clinici negativi per la salute: morte, ricadute, complicanze, ulcere da pressione, difficoltà (sibilo) respiratoria ecc.). Esempi di esiti positivi: guarigione, qualità vita, assenza di ricadute...(cute integra, remissione sintomi respiratori, diminuzione dolore...) 
   
   
-**Esito (outcome)** Si noti che l'epidemiologia studia sia gli esiti “negativi” sia gli esiti “positivi” per la salute (in inglese: esito = _outcome_). Sono esempi di esiti clinici negativi per la salute: morte, ricadute, complicanze, ulcere da pressione, difficoltà (sibilo) respiratoria ecc.). Esempi di esiti positivi: guarigione, qualità vita, assenza di ricadute...(cute integra, remissione sintomi respiratori, diminuzione dolore...) 
-  
-  
-**Determinanti** Rappresenta lo specifico intervento assistenziale di cui si vuole testare l'efficacia o più in generale tutti quei fattori che sono, almeno in teoria, associati con l'esito. Quindi può essere un trattamento (es. applicazione di lidocaina) oppure il possesso di un fattore di rischio (per es. essere obeso).
+**Determinanti** Rappresenta lo specifico intervento assistenziale di cui si vuole testare l'efficacia o più in generale tutti quei fattori che sono, almeno in teoria, associati con l'esito. Quindi può essere un trattamento (es. applicazione di lidocaina) oppure il possesso di un fattore di rischio (per es. essere obeso). In altre parole sono i fattori che sono associati con un maggiore / minore rischio di esito.
   
   
 **Popolazione** La procedura assistenziale appropriata per il singolo paziente viene individuata partendo da osservazioni condotte su gruppi di pazienti con caratteristiche simili. 
@@ -460,10 +446,28 @@ La popolazione può essere costituita da pz in regime di degenza (si parla quind
   
 Se l'intervento infermieristico è di tipo preventivo, l'idonea strategia viene individuata su osservazioni condotte su individui non ospedalizzati, ovvero nel loro ambiente di vita e di lavoro ("popolazione generale"), con le loro caratteristiche socio-demografiche, stili ed ambienti di vita, dal possesso o meno di fattori di rischio ecc.
   
-  
+
 
 ### Tipi principali di studi epidemiologici
-Come abbiamo visto in precedenza i quesiti di ricerca possono riguardare diversi aspetti dell'assistenza infermieristica (trattamento, eziologia, prognosi e diagnosi). Anche i principali studi epidemiologici hanno una struttura diversa a seconda degli obiettivi specifici della ricerca. Come vedremo nel proseguo del corso, gli studi epidemiologici principali per l'EBN sono gli studi sperimentali (o studi di trattamento), gli studi di corte, gli studi caso controllo e gli studi trasversali. Una categoria di studi secondari molto importante e' rappresentata dalle revisioni sitematiche e meta-analisi che integrano i risultati di piu' studi primari offrendo all'infermiere una sintesi delle evidenze relative ad un determinato quesito di ricerca.
+Come abbiamo visto in precedenza i quesiti di ricerca possono riguardare diversi aspetti dell'assistenza infermieristica (trattamento, eziologia, prognosi e diagnosi). Anche i principali studi epidemiologici hanno una struttura diversa a seconda degli obiettivi specifici della ricerca.
+  
+  
+Alcuni degli obiettivi degli studi epidemiologici sono:
+
+-- Descrizione dei bisogni di salute;
+
+-- Descrizione dei bisogni assistenziali;
+
+-- Individuazione di fattori di rischio per la salute in popolazioni target (per es. obesità infantile);
+
+-- Individuazione di fattori prognostici per il decorso clinico in popolazioni di pz
+
+-- Valutazione di efficacia degli interventi clinici;
+
+-- Valutazione di efficacia di interventi disposti sulla popolazione (per es. vaccinazione)  
+  
+  
+Come vedremo nel proseguo del corso, gli studi epidemiologici principali per l'EBN sono gli studi sperimentali (o studi di trattamento), gli studi di corte, gli studi caso controllo e gli studi trasversali. Una categoria di studi secondari molto importante e' rappresentata dalle revisioni sitematiche e meta-analisi che integrano i risultati di piu' studi primari offrendo all'infermiere una sintesi delle evidenze relative ad un determinato quesito di ricerca.
   
   
 Gli studi sperimentali hanno l'obiettivo di verificare l'efficacia di trattamenti preventivi o terapeutici. Comprendono i trial clinici, che sono descritti nel capitolo 3. Gli studi di corte, caso-controllo e gli studi trasversali sono studi osservazionali e hanno l'obiettivo di verificare l'effetto delle esposizioni (eziologia) o possesso di un fattore prognostico sugli outcome di salute. Sono descritti nel capitolo 4. Le revisioni sistematiche e meta-analisi sono analisi di piu’ studi primari (sperimentali o osservazionali) e saranno l'oggetto del capitolo 5. Menzioniamo inoltre anche degli studi puramente descrittivi, i case report, che sono utilizzati nelle scienze mediche per descrivere il decorso clinico o la presentazione sinomatologica inusuale di determinati pazienti. Più  case reports simili formano una case series (serie di casi).
@@ -473,40 +477,58 @@ Come vedremo nei capitoli successivi, i quattro modelli di studio che abbiamo me
   
   
 
-### Fonti di conoscenza e “piramide delle evidenze”
-Le fonti di conoscenza in EBN possono essere di tipo primario, secondario o terziario. Gli studi primari descrivono le singole ricerche e si basano su (tanti) dati individuali (dei singoli pazienti). Sono le fonti di conoscenza sulle quali e' piu' facile verificare la validita' interna. Come detto in precedenza, i 4 modelli principali di studi epidemiologici (studio sperimentale, di corte, caso-controllo e trasversale) vengono scelti dai ricercatori in base alla tipologia di quesito e ad altre considerazioni di fattibilità dello studio.
-Pubblicazioni secondarie. Gli studi secondari o integrativi hanno lo scopo di riassumere e trarre le conclusioni dagli studi primari. Esempio: review sistematiche, metanalisi, linee guida. Sono le fonti di conoscenza migliori per verificare la generalita' dei risultati riportati nelle fonti primarie. Quindi esistono meta-analisi di studi sprimentali, studi di corte ecc. Infine le fonti terziarie sono quelle tradizionali come il parere di un collega esperto, libri, riviste, revisioni narrative.
+### Fonti di conoscenza
+Le fonti di conoscenza in EBN possono essere di tipo primario, secondario o terziario. 
   
   
-I diversi tipi di studi epidemiologici hanno diverse caratteristiche di validità interna. Alcuni sono più soggetti a errori sistematici di altri e quindi devono essere valutati criticamente prima di applicare il risultato nella pratica clinica. La cosidetta _piramide delle evidenze_ esprime una gerarchia delle prove di efficacia in base al tipo di studio o in base alla sorgente di conoscenza.
+Gli **studi primari** descrivono le singole ricerche e si basano su (tanti) dati individuali (dei singoli pazienti). Sono le fonti di conoscenza sulle quali e' piu' facile verificare la validita' interna. Come detto in precedenza, i 4 modelli principali di studi epidemiologici (studio sperimentale, di corte, caso-controllo e trasversale) vengono scelti dai ricercatori in base alla tipologia di quesito e ad altre considerazioni di fattibilità dello studio.
+Pubblicazioni secondarie. 
+  
+  
+Gli **studi secondari** o integrativi hanno lo scopo di riassumere e trarre le conclusioni dagli studi primari. Esempio: review sistematiche, metanalisi, linee guida. Sono le fonti di conoscenza migliori per verificare la generalita' dei risultati riportati nelle fonti primarie. Quindi esistono meta-analisi di studi sprimentali, studi di corte ecc. 
+  
+  
+Infine le **fonti terziarie** sono quelle tradizionali come il parere di un collega esperto, libri, riviste, revisioni narrative.
+  
+###  Piramide delle evidenze
+I diversi tipi di studi epidemiologici hanno diverse caratteristiche di validità interna. Alcuni sono più soggetti a errori sistematici di altri e quindi devono essere valutati criticamente prima di applicare il risultato nella pratica clinica. La cosidetta **piramide delle evidenze** esprime una gerarchia delle prove di efficacia in base al tipo di studio o in base alla sorgente di conoscenza. Ovviamente questa e' una semplificazione. Per es. uno studio di corte ben condotto produce evidenze migliori rispetto ad un trial clinico con problemi di validita' interna e/o esterna. Per questo motivo, l'attuale sistema di valutazione della qualita' delle evidenze si basa su un metodo piu' complesso (il metodo GRADE), per il quale si rimanda ai riferimenti riportati in bibliografia.
 
-[figura piramide]
+![](./img/piramide.png){width=80%}
 ￼ 
 
 
 ### Esercizio
 
-Per ogni caso di studio individua quale è la popolazione, l'esito ed il determinante studiato. Esempio: La mobilizzazione precoce diminuisce il rischio di ulcere da pressione nei pz allettati per frattura all'anca ? 
+Per ogni quesito di ricerca individua quale è la popolazione, l'esito ed il determinante studiato. 
+  
+  
+1. Esempio: La mobilizzazione precoce diminuisce il rischio di ulcere da pressione nei pz allettati per frattura all'anca ? Risposta:
+  
+  
+-- Popolazione: Pz allettati per frattura anca
 
-Risposta:
+-- Esito: lesioni da pressione
 
-- Popolazione: Pz allettati per frattura anca
-
-- Esito: lesioni da pressione
-
-- Determinante dell’esito: mobilizzazione precoce 
-
+-- Determinante dell’esito: mobilizzazione precoce 
+  
+  
 2. L'esposizione a fumo passivo determina sintomi respiratori nei bambini < 6 anni? 
-
+  
+  
 3. L'obesità negli adulti >55 anni aumenta il rischio di infarto?
-
+  
+  
 4. L'incontinenza nell'anziano ricoverato aumenta il rischio di cadute accidentali in reparto?
-
+  
+  
 5. Il riposizionamento del pz ogni 4h diminuisce il rischio di lesioni da pressione del pz immobilizzato per frattura agli arti?
-
+  
+  
 6. La terapia con eparina diminuisce il rischio di trombosi venosa profonda nel paziente anziano ricoverato per polmonite interstiziale?
+  
+  
+## Letture e risorse utili
 
-### Letture e risorse utili
-
+[Il metodo GRADE – Laura Amato, Luca De Fiore, Elena Parmelli, Marina Davoli]( https://bal.lazio.it/wp-content/uploads/2017/05/Il-metodo-GRADE.pdf)
 
 
