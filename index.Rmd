@@ -4,6 +4,9 @@ author: "Angelo Solimini"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: 
+  bookdown::pdf_book:
+    latex_engine: xelatex
+    keep_tex: true
   bookdown::gitbook:
     includes:
       in_header: includeme.html

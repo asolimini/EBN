@@ -328,7 +328,7 @@ Al contrario, se l’esito in studio e’ un evento positivo per la salute (per 
 
 Si noti che $RD$ puo' assumere valori negativi (varia tra -inf e +inf).
 
-**Interpretazione differenza dei rischi**. La differenza dei rischi da informazione sulla differenza assoluta nelle incidenze di evento nei due gruppi a confronto. In altre parole possiamo concludere che i _la differenza dell'incidenza di esito tra il gruppo sperimentale e quello di controllo e' pari a $RD$_. 
+**Interpretazione differenza dei rischi**. La differenza dei rischi da informazione sulla differenza assoluta nelle incidenze di evento nei due gruppi a confronto. In altre parole possiamo concludere che i *la differenza dell'incidenza di esito tra il gruppo sperimentale e quello di controllo e' pari a $RD$ *. 
 
 **Esempio interpretazione differenza dei rischi**. Si immagini che un ipotetico studio per verificare l'efficacia di due trattamenti per prevenire la morte dei pz ricoverati per una determinata patologia abbia dato i seguenti risultati: 
 

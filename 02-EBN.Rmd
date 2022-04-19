@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 # Evidence Based Nursing: la pratica clinica basata sulle prove di efficacia
 
@@ -45,7 +45,7 @@ _“L’infermiere riconosce il valore della ricerca, della sperimentazione clin
   
 Il modello concettuale EBN prevede dunque l’integrazione della migliore evidenza prodotta dalla ricerca sia con la competenza e l’esperienza clinica dell'infermiere sia con le preferenze e i valori del paziente {figura mod concettuale EBN}.
 
-![](./img/ebn_ciclo.png){width=80%}
+![](./img/mod-concettuale-ebn.png){width=80%}
   
   
 Gli elementi che vanno considerati sono:
@@ -113,6 +113,8 @@ Altri ostacoli all'implementazione della EBN sono l'incremento continuo di nuove
 
 
 ## Le fasi della infermieristica basata sulle evidenze 
+
+![](./img/ebn-ciclo.png){width=80%}
 
 Operativamente si possono identificare 5 fasi:
 
@@ -425,7 +427,6 @@ L'epidemiologia fornisce ai professionisti della sanità l’insieme dei metodi 
 
 >la distribuzione e la frequenza degli esiti di salute e dei loro determinanti  nelle popolazioni e l’applicazione dei risultati/conoscenza prodotta in sanità pubblica 
 
-![](./img/epidemoslogos.png){width=80%}
 
   
 Esaminiamo brevemente le componenti della definizione che abbiamo proposto:

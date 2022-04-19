@@ -20,7 +20,8 @@ esercizi
 che-cosa-è-lepidemiologia
 definizioni
 tipi-principali-di-studi-epidemiologici
-fonti-di-conoscenza-e-piramide-delle-evidenze
+fonti-di-conoscenza
+piramide-delle-evidenze
 esercizio-1
 letture-e-risorse-utili
 studi-di-trattamento
@@ -30,9 +31,10 @@ risultati-di-uno-studio-sperimentale
 tabella-di-contingenza
 incidenza-di-malattia
 esercizi-1
-misure-di-associazione
+misure-di-associazione-tra-trattamento-ed-esito
 rischio-relativo
 differenza-dei-rischi
+numero-necessario-da-trattare
 differenza-delle-medie
 esempi-1
 esercizi-2
@@ -42,7 +44,3 @@ bias
 tipi-di-analisi
 valutazione-critica-rct-critical-appraisal
 esercizio-2
-fonti-di-conoscenza
-piramide-delle-evidenze
-misure-di-associazione-tra-trattamento-ed-esito
-numero-necessario-da-trattare
