@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 # Studi di trattamento
 
@@ -270,9 +270,9 @@ Per confrontare numericamente i valori di indicenza degli esiti che si misurano 
 2.	Calcolare la differenza di due misure (una misura per il gruppo sperimentale, l’altra per il gruppo di controllo). In questo caso la misura puo' essere l'incidenza o la media (se l'esito e' espresso conuna variabile continua).
 
 ### Rischio relativo
-Il rischio relativo ($RR$) si utilizza quando si confronta l'incidenza dell'esito nel gruppo sperimentale e quello nel gruppo di controllo. Rischio relativo ovvero rapporto dei rischi e':
+Il rischio relativo ( $RR$) si utilizza quando si confronta l'incidenza dell'esito nel gruppo sperimentale e quello nel gruppo di controllo. Rischio relativo ovvero rapporto dei rischi e':
 
-$$ RR = \frac{ EER }{CER}$$
+$$RR = \frac{ EER }{CER}$$
 
 Dove:
 
@@ -306,10 +306,10 @@ La probabilita’ di guarigione con il trattamento sperimentale e’ 4 volte que
 ovvero i pz trattati con il trattamento sperimentale (in media) hanno 4 volte la probabilita’ di guarire rispetto ai pz trattati con il controllo.
 
 ### Differenza dei rischi 
-La differenza dei rischi ($RD$) si utilizza, come il rischio relativo, quando si confronta l'incidenza dell'esito nel gruppo sperimentale e quello nel gruppo di controllo. 
+La differenza dei rischi ( $RD$) si utilizza, come il rischio relativo, quando si confronta l'incidenza dell'esito nel gruppo sperimentale e quello nel gruppo di controllo. 
 Rischio relativo ovvero rapporto dei rischi e':
 
-$$ RD = { CER -EER}$$
+$$RD = { CER -EER}$$
 
 
 Dove:
@@ -345,7 +345,7 @@ $$RD = 20\%-5\% = 15\%$$
 Quindi la differenza nella probabilita’ di morte tra il trattamento sperimentale e quello di controllo e’ di 15% (15 punti percentuale).
 
 ### Numero necessario da trattare 
-Il numero necessario da trattare ($NNT$) e' il numero necessario di soggetti da trattare con il trattamento sperimentale per avere 1 evento favorevole in piu' rispetto al gruppo di controllo:
+Il numero necessario da trattare ( $NNT$) e' il numero necessario di soggetti da trattare con il trattamento sperimentale per avere 1 evento favorevole in piu' rispetto al gruppo di controllo:
 
 $$ NNT = \frac{1}{ CER -EER}$$
 
